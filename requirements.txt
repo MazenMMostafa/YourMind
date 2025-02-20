@@ -1,0 +1,11 @@
+playsound
+pywebio
+pygame
+google-generativeai
+pyjwt
+pyrebase
+SpeechRecognition
+sounddevice
+soundfile
+numpy
+flask
