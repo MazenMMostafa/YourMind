@@ -1,0 +1,5 @@
+MYSQUL PASS   AIzaSyAgWEjqvfNcS8ogkkbUMSw0E46LACGZZsE
+
+genai.configure(api_key=" AIzaSyAgWEjqvfNcS8ogkkbUMSw0E46LACGZZsE")
+
+AIzaSyAgWEjqvfNcS8ogkkbUMSw0E46LACGZZsE
